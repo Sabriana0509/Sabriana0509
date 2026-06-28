@@ -3,14 +3,12 @@
 
 
 
-- 👋 Hi, I’m @Sabriana0509
-- 👀 I’m interested in a MAN
-- 🌱 I’m currently learning sOMETHING
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 👋 Hi, I'm Sabriana.
+- 💡 Passionate about programming and technology.
+- 🌱 Currently exploring Web Development and Machine Learning.
+- 🤝 Always open to collaboration and new opportunities.
+- 📫 Feel free to connect with me.
+- 🚀 Always learning, always growing.
 <!---
 Sabriana0509/Sabriana0509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
